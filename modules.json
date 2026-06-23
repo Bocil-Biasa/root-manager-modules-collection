@@ -188,7 +188,7 @@
     "name": "Zygisk - Sui",
     "authors": "小潼, RikkaW, Sui Contributors",
     "description": "Fork by XiaoTong. Modern superuser interface implementation for Android root apps.",
-    "repoUrl": "https://github.com/KernelSU-Modules-Repo/zygisk-sui/releases/download/v502-5110aac/Sui-v13.5.4.3_502-5110aac-release.zip",
+    "repoUrl": "https://github.com/RikkaApps/Sui",
     "license": "GPL-3.0"
   },
   {
