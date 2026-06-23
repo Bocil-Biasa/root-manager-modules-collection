@@ -160,43 +160,77 @@
     "name": "Zygisk Next",
     "description": "Standalone implementation of Zygisk.",
     "author": "Nullptr & 5ec1cff & Dr-TSNG",
-    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext/",
-    "license": "All rights reserved."
+    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext/"
   },
   {
     "name": "MagicNet , Be a real transparent proxy..",
-    "author": "LIghtJUNction",
+    "authors": "LIghtJUNction",
     "description": "Android root traffic-governance module with magicnet0 TUN, sing-box/mihomo management, WebUI, CLI, MCP diagnostics, hotspot handling, VPN coexistence helpers, and eBPF detection with TUN fallback.",
     "repoUrl": "https://github.com/LIghtJUNction/MagicNet",
     "license": "MIT"
   },
   {
     "name": "AZenith",
-    "author": "Liliya, Kanaochar, Xinyaです",
+    "authors": "Liliya, Kanaochar, Xinyaです",
     "description": "Universal auto Performance module to enhance gaming experience while preserving daily usability.",
-    "repoUrl": "https://github.com/Liliya2727/AZenith",
+    "repoUrl": "https://github.com/Liliya2727/AZenith"
     "license": "Apache-2.0",
     "bannerUrl": "https://github.com/Liliya2727/AZenith/blob/main/banner/AZenithBanner5.X.png"
   },
   {
     "name": "KernelSU Grant Toast",
-    "author": "NativeStar",
+    "authors": "NativeStar",
     "description": "让KSU像Magisk一样弹出授予超级用户权限Toast./Show a root granted toast like Magisk.",
     "repoUrl": "https://github.com/NativeStar/KernelSUGrantToast",
     "license": "GPL-3.0"
   },
   {
     "name": "Zygisk - Sui",
-    "author": "小潼, RikkaW, Sui Contributors",
+    "authors": "小潼, RikkaW, Sui Contributors",
     "description": "Fork by XiaoTong. Modern superuser interface implementation for Android root apps.",
     "repoUrl": "https://github.com/RikkaApps/Sui",
     "license": "GPL-3.0"
   },
   {
-    "name": "FunBox",
-    "author": "Hicores",
+    "moduleId": "funbox",
+    "moduleName": "FunBox",
+    "authors": "Hicores",
     "description": "QQ/微信/TIM 表情包,语音包模块",
-    "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/",
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
+  },
+  {
+    "name": "YAKT",
+    "author": "NotZeetaa, amogus07, ahkehra",
+    "description": "Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters",
+    "repoUrl": "https://github.com/NotZeetaa/YAKT",
+    "license": "MIT",
+    "bannerUrl": "https://user-images.githubusercontent.com/67799176/171062389-24c1c096-f991-449f-b962-45f145b95355.jpg"
+  },
+  {
+    "name": "microG Installer Revived.... again",
+    "author": "ˢᶜᵒᵗᵗඞ⁩🛸, spacealtctrl",
+    "repoUrl": "https://github.com/spacealtctrl/microg_installer_revived_again",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Mediatek_Mali_GPU_Governor",
+    "author": "Seyud, Tools-cx-app",
+    "description": "适用于Mediatek_Mali_GPU的GPU动态调速器，优化高负载场景下的功耗与性能平衡",
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/Mediatek_Mali_GPU_Governor",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "FreePPS",
+    "author": "Seyud",
+    "description": "解锁并启用米系设备的公版 PPS 快充协议支持。 / Unlock and enable the support for the public PPS fast charging protocol on Xiaomi devices.",
+    "repoUrl": "https://github.com/Seyud/FreePPS_app/tree/main",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "AndroidSubSystem4GNU/Linux",
+    "author": "Moe Hakozaki (Aka. 沨鸾), LIghtJUNction, Moe-hacker, Lin1328",
+    "description": "Run GUN/Linux on android , powered by rurima & build-system: kam.",
+    "repoUrl": "https://github.com/RuriOSS/asl",
     "license": "Unknown"
-  }
+  },
 ]
