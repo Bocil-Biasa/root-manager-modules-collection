@@ -181,14 +181,14 @@
     "name": "KernelSU Grant Toast",
     "authors": "NativeStar",
     "description": "让KSU像Magisk一样弹出授予超级用户权限Toast./Show a root granted toast like Magisk.",
-    "downloadUrl": "https://github.com/NativeStar/KernelSUGrantToast",
+    "repoUrl": "https://github.com/NativeStar/KernelSUGrantToast",
     "license": "GPL-3.0"
   },
   {
     "name": "Zygisk - Sui",
     "authors": "小潼, RikkaW, Sui Contributors",
     "description": "Fork by XiaoTong. Modern superuser interface implementation for Android root apps.",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/zygisk-sui/releases/download/v502-5110aac/Sui-v13.5.4.3_502-5110aac-release.zip",
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/zygisk-sui/releases/download/v502-5110aac/Sui-v13.5.4.3_502-5110aac-release.zip",
     "license": "GPL-3.0",
   },
   {
@@ -196,6 +196,6 @@
     "moduleName": "FunBox",
     "authors": "Hicores",
     "description": "QQ/微信/TIM 表情包,语音包模块",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
   }
 ]
