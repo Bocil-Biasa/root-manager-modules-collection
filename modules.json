@@ -226,12 +226,5 @@
     "description": "解锁并启用米系设备的公版 PPS 快充协议支持。 / Unlock and enable the support for the public PPS fast charging protocol on Xiaomi devices.",
     "repoUrl": "https://github.com/Seyud/FreePPS_app/tree/main",
     "license": "Apache-2.0"
-  },
-  {
-    "name": "AndroidSubSystem4GNU/Linux",
-    "author": "Moe Hakozaki (Aka. 沨鸾), LIghtJUNction, Moe-hacker, Lin1328",
-    "description": "Run GUN/Linux on android , powered by rurima & build-system: kam.",
-    "repoUrl": "https://github.com/RuriOSS/asl",
-    "license": "Unknown"
   }
 ]
