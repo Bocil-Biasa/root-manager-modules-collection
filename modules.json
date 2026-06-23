@@ -160,7 +160,8 @@
     "name": "Zygisk Next",
     "description": "Standalone implementation of Zygisk.",
     "author": "Nullptr & 5ec1cff & Dr-TSNG",
-    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext/"
+    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext/",
+    "license": "Unknown"
   },
   {
     "name": "MagicNet , Be a real transparent proxy..",
@@ -195,6 +196,7 @@
     "name": "FunBox",
     "author": "Hicores",
     "description": "QQ/微信/TIM 表情包,语音包模块",
-    "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/",
+    "license": "Unknown"
   }
 ]
