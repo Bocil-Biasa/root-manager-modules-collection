@@ -164,8 +164,8 @@
   },
   {
     "name": "MagicNet , Be a real transparent proxy..",
-    "author": "LIghtJUNction",
     "description": "Android root traffic-governance module with magicnet0 TUN, sing-box/mihomo management, WebUI, CLI, MCP diagnostics, hotspot handling, VPN coexistence helpers, and eBPF detection with TUN fallback.",
+    "author": "LIghtJUNction",
     "repoUrl": "https://github.com/LIghtJUNction/MagicNet",
     "license": "MIT"
   },
@@ -192,8 +192,7 @@
     "license": "GPL-3.0"
   },
   {
-    "moduleId": "funbox",
-    "moduleName": "FunBox",
+    "name": "FunBox",
     "author": "Hicores",
     "description": "QQ/微信/TIM 表情包,语音包模块",
     "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
