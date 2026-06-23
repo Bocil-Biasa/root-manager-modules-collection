@@ -164,37 +164,36 @@
   },
   {
     "name": "MagicNet , Be a real transparent proxy..",
-    "authors": "LIghtJUNction",
+    "author": "LIghtJUNction",
     "description": "Android root traffic-governance module with magicnet0 TUN, sing-box/mihomo management, WebUI, CLI, MCP diagnostics, hotspot handling, VPN coexistence helpers, and eBPF detection with TUN fallback.",
     "repoUrl": "https://github.com/LIghtJUNction/MagicNet",
     "license": "MIT"
   },
   {
     "name": "AZenith",
-    "authors": "Liliya, Kanaochar, Xinyaです",
+    "author": "Liliya, Kanaochar, Xinyaです",
     "description": "Universal auto Performance module to enhance gaming experience while preserving daily usability.",
-    "repoUrl": "https://github.com/Liliya2727/AZenith"
+    "repoUrl": "https://github.com/Liliya2727/AZenith",
     "license": "Apache-2.0",
     "bannerUrl": "https://github.com/Liliya2727/AZenith/blob/main/banner/AZenithBanner5.X.png"
   },
   {
     "name": "KernelSU Grant Toast",
-    "authors": "NativeStar",
+    "author": "NativeStar",
     "description": "让KSU像Magisk一样弹出授予超级用户权限Toast./Show a root granted toast like Magisk.",
     "repoUrl": "https://github.com/NativeStar/KernelSUGrantToast",
     "license": "GPL-3.0"
   },
   {
     "name": "Zygisk - Sui",
-    "authors": "小潼, RikkaW, Sui Contributors",
+    "author": "小潼, RikkaW, Sui Contributors",
     "description": "Fork by XiaoTong. Modern superuser interface implementation for Android root apps.",
     "repoUrl": "https://github.com/RikkaApps/Sui",
     "license": "GPL-3.0"
   },
   {
-    "moduleId": "funbox",
-    "moduleName": "FunBox",
-    "authors": "Hicores",
+    "name": "FunBox",
+    "author": "Hicores",
     "description": "QQ/微信/TIM 表情包,语音包模块",
     "repoUrl": "https://github.com/KernelSU-Modules-Repo/funbox/"
   }
